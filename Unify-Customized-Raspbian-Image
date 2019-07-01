@@ -18,9 +18,5 @@ Steps to create:
 * sudo rm -rf /mnt/pi
 
 Changes:
-* Neblio Desktop Wallpaper
-* Install-neblio-qt.sh placed on desktop for one-click installation of the latest neblio-qt version
-
-Download Link (Google Drive): https://drive.google.com/file/d/1US0AlZyJfwxjHQ5-J76UozTIj8Yb9_Vr/view?usp=sharing
-SHA-256 of 2018-06-27-raspbian-stretch-neblio-custom.zip: fdeb7e73fdf8c15e6023dc2984525b5660829dbe4cdaa6c5f34730153df2de89
-SHA-256 of 2018-06-27-raspbian-stretch-neblio-custom.img: 890a5ec9570cd0e378caf40e00eec6e0c27b92ab93b3651dc7dde1cf3f2b7b71
+* Unify Desktop Wallpaper
+* Install-UNIFY-qt.sh placed on desktop for one-click installation of the latest unify-qt version
